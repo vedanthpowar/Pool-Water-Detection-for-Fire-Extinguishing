@@ -1,1 +1,0 @@
-python main.py --weights model.pt --img 640 --conf 0.6 --source swimming_pools\
